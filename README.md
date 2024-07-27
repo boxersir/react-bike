@@ -1,3 +1,10 @@
+<!--
+ * @Author: caixin caixin185@163.com
+ * @Date: 2024-07-27 11:46:22
+ * @LastEditors: caixin
+ * @LastEditTime: 2024-07-27 11:46:30
+ * @Description: file content
+-->
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
